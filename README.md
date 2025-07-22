@@ -1,5 +1,5 @@
 <h1>SQL Techniques</h1>
-<img width="203" height="113" alt="SQL Project 1" src="<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/250edadf-c1c4-4233-aef9-b13849e0fcb1" />
+<img width="203" height="113" alt="SQL Project 1" src="https://github.com/user-attachments/assets/ad22f6e6-91e4-4bc4-8740-c6aed48a5847">
 
 ### SQL projects demonstrate comprehensive skills like: 
  - <b>Retrieving Data from a Single Table</b>
