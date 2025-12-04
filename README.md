@@ -15,7 +15,7 @@ In preparation for success planning, the AVP of Lending is reviewing the lending
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/2f1909d2-ec96-4d99-8dba-c8ef516857f9" />
 <br />
 <br />
 
@@ -28,7 +28,7 @@ The AVP of Lending would like to now see Personal Loans approved between $10K to
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="229" alt="Image" src="https://github.com/user-attachments/assets/8629967a-0a3b-47ae-bef9-822fced5d6ab" />
+<img width="229" height="116" alt="Image" src="https://github.com/user-attachments/assets/947e6f74-7b77-4d17-922f-731c2a1ad827" />
 <br />
 <br />
 
@@ -41,7 +41,7 @@ Finance is conducting research for our upcoming Fed stress test. They are asking
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/77479544-73f5-4b08-849c-de567d3c2af5" />
+<img width="290" height="74" alt="Image" src="https://github.com/user-attachments/assets/52c09773-cd16-44cd-bd7f-ecd031ab6473" />
 <br />
 <br />
 
@@ -53,7 +53,7 @@ Samira, a regional branch manager, is evaluating interest impact on long-term mo
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="341" alt="Image" src="https://github.com/user-attachments/assets/315e1489-1329-4377-ab27-8bd350cdea03" />
+<img width="574" height="205" alt="Image" src="https://github.com/user-attachments/assets/d54cf8f3-35f6-49b5-b27a-8811c778d481" />
 <br />
 <br />
 
@@ -65,9 +65,33 @@ Maya in Customer Success is examining transaction risk around withdrawals. Sheâ€
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
+<img width="585" height="201" alt="Image" src="https://github.com/user-attachments/assets/049d9cf5-cbb9-45d7-9dd6-317ebdac5c48" />
 <br />
 <br />
+
+<h2>SQL Project 6</h2>
+test notes.
+<br />
+
+
+###
+<p align="center">
+testing: <br/>
+<img width="585" height="201" alt="Image" src="https://github.com/user-attachments/assets/049d9cf5-cbb9-45d7-9dd6-317ebdac5c48" />
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </p>
