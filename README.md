@@ -70,13 +70,13 @@ Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
 <br />
 
 <h2>SQL Project 6</h2>
-test notes.
+Provide which items were purchased along with the customer for all orders that were non-UPS and USPS orders that were shipped to Southern region customers with at least a $50K credit limit.
 <br />
 
 
 ###
 <p align="center">
-testing: <br/>
+Left Join and Filtering: <br/>
 <img width="585" height="201" alt="Image" src="https://github.com/user-attachments/assets/049d9cf5-cbb9-45d7-9dd6-317ebdac5c48" />
 <br />
 <br />
