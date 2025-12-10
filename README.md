@@ -70,6 +70,18 @@ Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
 <br />
 
 <h2>SQL Project 6</h2>
+Our Customer Service team sends a 5 year, 10 year, 15 year, and 20 year gift to all customers on the anniversary of their account opening. May you provide them with a list of dates showing the customers who have most recently received their 15-year anniversary gifts? Thanks!
+<br />
+
+
+###
+<p align="center">
+Filtering Data and Date Functions: <br/>
+<img width="323" height="93" alt="Image" src="https://github.com/user-attachments/assets/8c8ee838-1f13-4565-bb75-f04eb83a0ca8" />
+<br />
+<br />
+
+<h2>SQL Project 7</h2>
 Provide which items were purchased along with the customer for all orders that were non-UPS and USPS orders that were shipped to Southern region customers with at least a $50K credit limit.
 <br />
 
@@ -81,19 +93,41 @@ Left Join and Filtering: <br/>
 <br />
 <br />
 
+<h2>SQL Project 8</h2>
+The Marketing Manager at Stillwater Community Bank is focusing on acquiring new customers by enhancing their rewards benefits. As part of an upcoming marketing promotion, they would like a list of customers whose job type is in service and who have accumulated at least $50 in reward points. (Note: Each dollar is equivalent to 10 points.)
+For this promotion, please ensure the list includes the following customer details: Customer ID, Customer’s Name, Email Address, Job Type, Type of Cards, and Reward Points.
+<br />
 
 
+###
+<p align="center">
+Join and Calculated Fields: <br/>
+<img width="365" height="143" alt="Image" src="https://github.com/user-attachments/assets/38e371a9-f5a1-4f07-8e07-959105c6fd7a" />
+<br />
+<br />
+
+<h2>SQL Project 9</h2>
+Provide a list of default mortgage accounts for millennial customers located in the Atlanta, Austin, Orlando, and Dallas markets for mortgages and who opened their accounts in 2020.  Provide the customer names.
+<br />
 
 
+###
+<p align="center">
+Join: <br/>
+<img width="362" height="157" alt="Image" src="https://github.com/user-attachments/assets/63597942-a331-4b14-b52e-a171b112342a" />
+<br />
+<br />
+
+<h2>SQL Project 10</h2>
+Provide a list of non-mortgage customers who opened accounts within the last 4 years that have credit card payments that are at least 60 days past due in our expanded markets. Provide the customer names.
+<br />
 
 
-
-
-
-
-
-
+###
+<p align="center">
+Joins and Calculated Fields: <br/>
+<img width="470" height="196" alt="Image" src="https://github.com/user-attachments/assets/42f7ddeb-737e-42cf-9397-7a42e4cf52b2" />
+<br />
+<br />
 
 </p>
-
-
